@@ -1,0 +1,14 @@
+.beef {
+    justify-content: center;
+    text-align: center;
+  }
+  form {
+    justify-content: center;
+  }
+  .btn {
+    background-color: coral;
+  }
+  .btn:hover {
+    background-color: cornflowerblue;
+  }
+  
