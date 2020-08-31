@@ -4,7 +4,7 @@ body {
   }
   .body {
     background-color: darkgray;
-    background-image: url(assets/back-hat.jpg);
+    /*background-image: url(assets/back-hat.jpg);*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;

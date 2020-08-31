@@ -26,7 +26,6 @@ import { DatePipePipe } from './date-pipe.pipe';
     SearchFormComponent,
     UnderlineDirective,
     DatePipePipe,
-    UserServiceService,
   ],
   imports: [
     BrowserModule,
