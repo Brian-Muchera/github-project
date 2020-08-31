@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { AboutComponent } from './about/about.component';
 import { UserComponent } from './user/user.component';
 import { NavbarComponent } from './navbar/navbar.component';
-import { UserServiceService } from './user-service.service';
+import { UserServiceService } from './user.service.service';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { RepoComponent } from './repo/repo.component';
@@ -26,6 +26,7 @@ import { DatePipePipe } from './date-pipe.pipe';
     SearchFormComponent,
     UnderlineDirective,
     DatePipePipe,
+    UserServiceService,
   ],
   imports: [
     BrowserModule,
