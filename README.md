@@ -25,3 +25,42 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## BDD
+
+| Behavior                            | Input                      | Output                                                                                                                               |
+| ----------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Search and display a github profile | Enter your github username | Displays the name, username, number of repositories,Joining date, followers, following and lists the repositories with creation date |
+
+
+## Setup/Installation Requirements
+
+- Clone or download the repository
+- cd to the directory on the terminal
+- run the command `ng serve --open` to open in your broeser
+- changes can be made in your IDE
+
+## Known Bugs
+
+There are currently no known bugs
+
+## Technologies Used
+
+- HTML
+- CSS
+- Typescript
+- Angular 9
+
+## Support and contact details
+
+Please feel free to make improvemrnts on the app and incase of any questions and support you can contact me through email - mucherabrian2@gmail.com
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+### License
+
+MIT license
+Copyright (c) {2020} Brian Muchera
