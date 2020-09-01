@@ -43,6 +43,6 @@ export class UserComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.getUser('default-007');
+    this.getUser('Brian-Muchera');
   }
 }

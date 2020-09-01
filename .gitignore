@@ -11,7 +11,7 @@
 /node_modules
 
 #Api Key
-/src/environments/environment.ts
+/src/environments/environment.prod
 /src/environments
 
 

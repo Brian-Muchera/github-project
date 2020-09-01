@@ -37,7 +37,7 @@ export class UserServiceService {
     let promise = new Promise((resolve, reject) => {
       this.http
         .get<Profile>(
-          'https://api.github.com/user/' +
+          'https://api.github.com/users/' +
             username +
             '?access_token=' +
             environment.apiKey
@@ -71,7 +71,7 @@ export class UserServiceService {
     let promise = new Promise((resolve, reject) => {
       this.http
         .get<Repos>(
-          'https://api.github.com/user/' +
+          'https://api.github.com/users/' +
             username +
             '/repos?access_token=' +
             environment.apiKey
