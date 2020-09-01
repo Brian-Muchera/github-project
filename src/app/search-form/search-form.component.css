@@ -6,9 +6,9 @@
     justify-content: center;
   }
   .btn {
-    background-color: coral;
+    background-color: rgb(97, 33, 10);
   }
   .btn:hover {
-    background-color: cornflowerblue;
+    background-color: rgb(174, 185, 204);
   }
   
